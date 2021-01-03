@@ -63,17 +63,17 @@
   font-size: 0.8em;
   font-family: inherit;
   display: inline-block;
-  background: #f7f7f7;
+  background: #ff9393;
   padding: 0 0.4em;
   border-radius: 2px;
 }
 .O_comment_body table {
-  border: solid 1px #f7f7f7;
+  border: solid 1px #331616;
   border-radius: 2px;
   padding: 0.5em;
 }
 .O_comment_body th {
-  background:#f7f7f7;
+  background:#ff0000;
   padding: 0.3em;
 }
 .O_comment_body td {
@@ -85,7 +85,7 @@
 }
 .O_comment_body blockquote {
   padding: 0.6em 0 0.6em 1em;
-  border-left: solid 4px #c4c4c4;
+  border-left: solid 4px #22bb6e;
   margin: 0 0 1em 0;
   opacity: 0.8;
   font-size: 0.9em;
@@ -99,7 +99,7 @@
   margin: 0 0 1em 0;
   padding: 1em;
   overflow: auto;
-  background: #f7f7f7;
+  background: #ac4e97;
   border-radius: 2px;
   opacity: 0.8;
 }
